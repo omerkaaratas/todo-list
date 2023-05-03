@@ -5,11 +5,11 @@ This is a web application for managing your to-do list. It allows you to create,
 # Installation
 To run this application, you must have Node.js and npm (Node Package Manager) installed on your computer. Once you have Node.js and npm installed, follow these steps:
 
-1- Clone this repository to your local machine using git clone.
-2- Navigate to the project directory using cd.
-3- Run npm install to install the necessary Node modules.
-4- Run nodemon server.js to start the server.
-5- Open your web browser and go to http://localhost:3000 to use the application.
+- Clone this repository to your local machine using git clone.
+- Navigate to the project directory using cd.
+- Run npm install to install the necessary Node modules.
+- Run nodemon server.js to start the server.
+- Open your web browser and go to http://localhost:3000 to use the application.
 
 # Features
 - Create, read, update, and delete tasks
