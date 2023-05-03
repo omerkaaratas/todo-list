@@ -2,7 +2,7 @@
 
 This is a web application for managing your to-do list. It allows you to create, read, update, and delete tasks. The application is built using EJS, JavaScript, Node.js, and Express.js, and uses HTML and CSS for the front-end. It also uses several Node modules, including body-parser, ejs, express, and nodemon.
 
-Installation
+# Installation
 To run this application, you must have Node.js and npm (Node Package Manager) installed on your computer. Once you have Node.js and npm installed, follow these steps:
 
 Clone this repository to your local machine using git clone.
@@ -16,7 +16,8 @@ Mark tasks as complete or incomplete
 Filter tasks by status (completed or incomplete) or category
 Add new categories for tasks
 Responsive design for mobile and desktop devices
-Technologies Used
+
+# Technologies Used
 This application uses the following technologies:
 
 EJS
@@ -29,8 +30,10 @@ body-parser Node module
 ejs Node module
 express Node module
 nodemon Node module
-Contributing
+# Contributing
+
 Contributions to this project are welcome! If you have any suggestions or want to add new features, feel free to fork this repository and submit a pull request.
 
-License
+# License
+
 This project is licensed under the MIT License, which means you can use it for personal or commercial purposes.
