@@ -10,6 +10,7 @@ To run this application, you must have Node.js and npm (Node Package Manager) in
 - Run npm install to install the necessary Node modules.
 - Run nodemon server.js to start the server.
 - Open your web browser and go to http://localhost:3000 to use the application.
+<img width="1504" alt="Screenshot 2023-05-04 at 13 06 58" src="https://user-images.githubusercontent.com/118741717/236199386-21e44cee-24fa-40af-834a-ae963f99c763.png">
 
 # Features
 - Create, read, update, and delete tasks
@@ -17,9 +18,11 @@ To run this application, you must have Node.js and npm (Node Package Manager) in
 - Filter tasks by status (completed or incomplete) or category
 - Add new categories for tasks
 - Responsive design for mobile and desktop devices
+<img width="1509" alt="Screenshot 2023-05-04 at 13 06 34" src="https://user-images.githubusercontent.com/118741717/236199429-04023e37-8dae-4723-a3f2-df1102d19f5a.png">
 
 # Technologies Used
 This application uses the following technologies:
+
 
 EJS
 JavaScript
@@ -31,6 +34,7 @@ body-parser Node module
 ejs Node module
 express Node module
 nodemon Node module
+<img width="1501" alt="Screenshot 2023-05-04 at 13 06 11" src="https://user-images.githubusercontent.com/118741717/236199504-b532dba2-1757-4185-aa02-02274ff2f4cb.png">
 # Contributing
 
 Contributions to this project are welcome! If you have any suggestions or want to add new features, feel free to fork this repository and submit a pull request.
