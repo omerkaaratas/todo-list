@@ -19,23 +19,22 @@ To run this application, you must have Node.js and npm (Node Package Manager) in
 - Add new categories for tasks
 - Responsive design for mobile and desktop devices
 
+<img width="1501" alt="Screenshot 2023-05-04 at 13 06 11" src="https://user-images.githubusercontent.com/118741717/236199804-a4a3662b-e011-475c-97be-f14091109e42.png">
 
-<img width="1509" alt="Screenshot 2023-05-04 at 13 06 34" src="https://user-images.githubusercontent.com/118741717/236199429-04023e37-8dae-4723-a3f2-df1102d19f5a.png">
 
 # Technologies Used
 This application uses the following technologies:
 
-
-EJS
-JavaScript
-Node.js
-Express.js
-HTML
-CSS
-body-parser Node module
-ejs Node module
-express Node module
-nodemon Node module
+-EJS
+-JavaScript
+-Node.js
+-Express.js
+-HTML
+-CSS
+-body-parser Node module
+-ejs Node module
+-express Node module
+-nodemon Node module
 <img width="1501" alt="Screenshot 2023-05-04 at 13 06 11" src="https://user-images.githubusercontent.com/118741717/236199504-b532dba2-1757-4185-aa02-02274ff2f4cb.png">
 # Contributing
 
