@@ -19,9 +19,6 @@ To run this application, you must have Node.js and npm (Node Package Manager) in
 - Add new categories for tasks
 - Responsive design for mobile and desktop devices
 
-<img width="1501" alt="Screenshot 2023-05-04 at 13 06 11" src="https://user-images.githubusercontent.com/118741717/236199804-a4a3662b-e011-475c-97be-f14091109e42.png">
-
-
 # Technologies Used
 This application uses the following technologies:
 
@@ -39,6 +36,7 @@ This application uses the following technologies:
 # Contributing
 
 Contributions to this project are welcome! If you have any suggestions or want to add new features, feel free to fork this repository and submit a pull request.
+<img width="1501" alt="Screenshot 2023-05-04 at 13 06 11" src="https://user-images.githubusercontent.com/118741717/236199804-a4a3662b-e011-475c-97be-f14091109e42.png">
 
 # License
 
