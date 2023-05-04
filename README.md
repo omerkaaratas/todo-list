@@ -18,6 +18,8 @@ To run this application, you must have Node.js and npm (Node Package Manager) in
 - Filter tasks by status (completed or incomplete) or category
 - Add new categories for tasks
 - Responsive design for mobile and desktop devices
+
+
 <img width="1509" alt="Screenshot 2023-05-04 at 13 06 34" src="https://user-images.githubusercontent.com/118741717/236199429-04023e37-8dae-4723-a3f2-df1102d19f5a.png">
 
 # Technologies Used
